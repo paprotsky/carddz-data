@@ -15,7 +15,7 @@
     },
     "video": "https://www.youtube.com/embed/8A4FVGFA7dI",
     "word": "sophomore",
-    "wordOfTheDay": 1
+    "wordOfTheDay": 0
   },
   {
     "id": 2,
@@ -33,7 +33,7 @@
     },
     "video": "https://www.youtube.com/embed/kUFa1K93xAE",
     "word": "yolk",
-    "wordOfTheDay": 0
+    "wordOfTheDay": 1
   },
   {
     "id": 3,
@@ -357,6 +357,168 @@
     },
     "video": "https://www.youtube.com/embed/XasT00Ra79Q",
     "word": "ambiguous",
+    "wordOfTheDay": 0
+  },
+   {
+    "id": 21,
+    "audio": "hang.mp3",
+    "description": {
+      "ua": "вішати, висіти",
+      "ru": "вешать, висеть"
+    },
+    "img": "",
+    "letter": "h",
+    "partOfSpeech": {
+      "en": "verb",
+      "ua": "дієслово",
+      "ru": "глагол"
+    },
+    "video": "https://www.youtube.com/embed/Yr4fx4F8gYs",
+    "word": "hang",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 22,
+    "audio": "married to.mp3",
+    "description": {
+      "ua": "одружена(ий) з",
+      "ru": "замужем за/женат на"
+    },
+    "img": "",
+    "letter": "m",
+    "partOfSpeech": {
+      "en": "adjective",
+      "ua": "прикметник",
+      "ru": "прилагательное"
+    },
+    "video": "https://www.youtube.com/embed/0inn_ZCCxss",
+    "word": "married to",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 23,
+    "audio": "obligation.mp3",
+    "description": {
+      "ua": "зобов'язання, обов'язок",
+      "ru": "обязательство, обязанность"
+    },
+    "img": "",
+    "letter": "o",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/JKkN5IOFUHc",
+    "word": "obligation",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 24,
+    "audio": "in a nutshell.mp3",
+    "description": {
+      "ua": "коротко, у кількох словах",
+      "ru": "короче говоря, в двух словах"
+    },
+    "img": "",
+    "letter": "i",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/9WhmljFWMFc",
+    "word": "in a nutshell",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 25,
+    "audio": "supervision.mp3",
+    "description": {
+      "ua": "нагляд, догляд",
+      "ru": "присмотр, надзор"
+    },
+    "img": "",
+    "letter": "s",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/GZXLP2cXWAU",
+    "word": "supervision",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 26,
+    "audio": "hit me up.mp3",
+    "description": {
+      "ua": "повідом мені (подзвони або напиши)",
+      "ru": "сообщи мне (позвони или напиши)"
+    },
+    "img": "",
+    "letter": "h",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/B-tNF_WIPs0",
+    "word": "hit me up",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 27,
+    "audio": "worth_a_shot.mp3",
+    "description": {
+      "ua": "варто того, щоб спробувати",
+      "ru": "стоит того, чтобы попытаться; попытка не пытка"
+    },
+    "img": "",
+    "letter": "w",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/AqerFb4KO1Q",
+    "word": "worth a shot",
+    "wordOfTheDay": 0
+  },
+    {
+    "id": 28,
+    "audio": "over_the_moon.mp3",
+    "description": {
+      "ua": "радий, до нестями; на сьомому небі від щастя",
+      "ru": "вне себя от радости; на седьмом небе от счастья"
+    },
+    "img": "",
+    "letter": "o",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/_33AlP0bGoc",
+    "word": "over the moon",
+    "wordOfTheDay": 0
+  },
+   {
+    "id": 29,
+    "audio": "here and there.mp3",
+    "description": {
+      "ua": "час від часу",
+      "ru": "время от времени"
+    },
+    "img": "",
+    "letter": "h",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/3WR4uSzLOI0",
+    "word": "here and there",
     "wordOfTheDay": 0
   }
 ]
