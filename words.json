@@ -520,23 +520,5 @@
     "video": "https://www.youtube.com/embed/3WR4uSzLOI0",
     "word": "here and there",
     "wordOfTheDay": 0
-  },
-   {
-    "id": 30,
-    "audio": "here and there.mp3",
-    "description": {
-      "ua": "час від часу",
-      "ru": "время от времени"
-    },
-    "img": "",
-    "letter": "h",
-    "partOfSpeech": {
-      "en": "idiom",
-      "ua": "ідіома",
-      "ru": "идиома"
-    },
-    "video": "https://www.youtube.com/embed/3WR4uSzLOI0",
-    "word": "here and there",
-    "wordOfTheDay": 0
   }
 ]
